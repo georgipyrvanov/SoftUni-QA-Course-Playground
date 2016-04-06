@@ -25,7 +25,7 @@ public class TestingAbv {
     
 
     @After
-    public void TearDown()
+    public int TearDown()
     {
         //Closing WebDriver
         driver.quit();
