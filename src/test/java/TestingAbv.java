@@ -14,7 +14,7 @@ public class TestingAbv {erg
     private WebDriver driver;
 
     @Before
-    public int SetUp()
+    public void SetUp()
     {
         //Creating our WebDriver and setting up the needed timeout
 
