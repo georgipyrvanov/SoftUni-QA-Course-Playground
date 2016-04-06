@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class TestingAbv {erg
 
-    private WebDriver driver;
+    public WebDriver driver;
 
     @Before
     public void SetUp()
